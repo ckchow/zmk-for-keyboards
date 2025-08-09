@@ -9,7 +9,8 @@ manifest:
       remote: zmkfirmware
       # revision: v0.1.0
       # right before the release of pandakb's firmware
-      revision: bac6bda34c5165d15770868f2028b064f4665c49
+      # revision: bac6bda34c5165d15770868f2028b064f4665c49
+      revision: main
       import: app/west.yml
   self:
     path: config
