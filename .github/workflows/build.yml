@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "config/**"
+      - build.yml
 
 jobs:
   build:
